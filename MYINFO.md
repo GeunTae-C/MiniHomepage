@@ -1,2 +1,3 @@
-취미 = 잠
-MBTI = ISTJ
+- 취미 = 잠
+- MBTI = ISTJ
+- 결혼 = 미혼
